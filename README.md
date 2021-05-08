@@ -1,7 +1,5 @@
 # Fire-Assist-Robotic-System
 
-For testing purposes as part of final thesis submission.
-
 An Arduino system that detects temperature, light and distance. If values become unsafe user is alerted through LEDs.
 Arduino system comes with an autonomous mode, where it will travel freely and avoid objects until temperature or light are within an unsafe range.
 
